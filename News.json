@@ -1,4 +1,12 @@
 {
-  "title": "This is a WebpageTitle updated",
-  "content": "some additional content changed"
+    "news": [
+        {
+            "title": "This is a NewsTitle",
+            "content": "some additional content"
+        },
+        {
+            "title": "This is another NewsTitle",
+            "content": "some other content"
+        }
+    ]
 }
